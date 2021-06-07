@@ -2,6 +2,16 @@
 
 A new Flutter project.
 
+**Quiz Screen** :
+
+![Quiz Screen](https://user-images.githubusercontent.com/40691961/121063896-449f1000-c79d-11eb-8fa2-f6775195cd59.png)
+
+
+**Quiz finished Screen**:
+
+![Quiz finished Screen](https://user-images.githubusercontent.com/40691961/121063926-4f59a500-c79d-11eb-8a28-391f08c433f4.png)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
